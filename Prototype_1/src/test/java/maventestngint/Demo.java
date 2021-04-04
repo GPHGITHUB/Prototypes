@@ -8,6 +8,7 @@ public class Demo {
 	@Test
 	public void testA () {
 		Reporter.log("Maven TESTNG Integration");
+		Reporter.log("Maven TESTNG Integration");
 	}
 
 }
